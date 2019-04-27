@@ -1,5 +1,16 @@
+.background{
+  text-align: center;
+  align-content: center;
+  
+  height: 100%;
+  position: fixed;
+  width: 100%;
+}
+
 .App {
   text-align: center;
+  justify-content: center;
+  align-content: center;
 }
 
 .App-logo {
